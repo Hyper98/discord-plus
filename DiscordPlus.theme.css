@@ -1,12 +1,13 @@
 //META{"name":"Discord+ Source Code","description":"This file is intended for developers only. Please do not use this if you're an end-user.","website":"https://plusinsta.github.io/discord-plus/","author":"PlusInsta","version":"2.2"}*//
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700|Righteous');
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,600|Roboto:400|Russo+One');
 :root {
 	--background: url('https://i.imgur.com/3AiL3yN.png');
 	--accent-color: rgb(135,31,96);
-	--font: 'Poppins';
+	--font: 'Libre+Franklin';
 	--font-text: 'Roboto';
-	--font-header: 'Righteous';
+	--font-header: 'Russo+One';
 	--roundness: 10px;
+	--homeIcon: url('https://i.imgur.com/yA3h4mo.png') ;
 }
 
 /* Background image */
