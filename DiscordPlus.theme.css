@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,600|Roboto:400,700|Russo+One');
 :root {
 	--background: url('https://i.imgur.com/3AiL3yN.png');
-	--accent-color: rgb(135,31,96);
+	--accent-color: rgb(255,0,0);
 	--font: 'Libre+Franklin';
 	--font-text: 'Roboto';
 	--font-header: 'Russo+One';
