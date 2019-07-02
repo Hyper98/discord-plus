@@ -10,7 +10,7 @@
 	--homeIcon: url('https://i.imgur.com/yA3h4mo.png') ;
 }
     /* Changes Home Icon Image */
-.da-appMount, #app-mount svg.homeIcon-tEMBK1 {
+ #app-mount svg.homeIcon-tEMBK1 {
     color:transparent;
     background: var(--homeIcon) no-repeat center/cover;
     height: 48px;
