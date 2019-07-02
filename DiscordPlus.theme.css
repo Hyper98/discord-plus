@@ -1,5 +1,5 @@
 //META{"name":"Discord+ Source Code","description":"This file is intended for developers only. Please do not use this if you're an end-user.","website":"https://plusinsta.github.io/discord-plus/","author":"PlusInsta","version":"2.2"}*//
-@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,600|Roboto:400,700|Russo+One');
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,600|Roboto:400,700|Russo+One:400');
 :root {
 	--background: url('https://i.imgur.com/3AiL3yN.png');
 	--accent-color: rgb(255,0,0);
